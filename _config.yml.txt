@@ -1,3 +1,0 @@
-title: Tharan Portfolio
-description: My personal portfolio website
-theme: jekyll-theme-primer
